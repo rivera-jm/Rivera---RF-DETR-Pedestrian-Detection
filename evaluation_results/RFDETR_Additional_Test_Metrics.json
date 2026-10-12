@@ -1,0 +1,11 @@
+{
+    "confidence_threshold": 0.5,
+    "iou_threshold": 0.5,
+    "true_positives": 290,
+    "false_positives": 24,
+    "false_negatives": 306,
+    "classification_accuracy": 1.0,
+    "mean_matched_iou": 0.8299656403475795,
+    "fixed_threshold_precision": 0.9235668789808917,
+    "fixed_threshold_recall": 0.4865771812080537
+}
